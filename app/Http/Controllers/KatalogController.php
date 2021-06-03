@@ -15,7 +15,10 @@ class KatalogController extends Controller
     public function index()
     {
         try {
-            $data = DB::table('katalog')->orderBy('id', 'desc')->get();
+            $data = DB::table('katalog')->orderBy('id', 'desc')
+            ->select('katalog.*', 'kontak.nama as nama_penjual', 'kontak.alamat', 'kontak.no_wa', 'kontak.foto as foto_profil')
+            ->join('kontak', 'kontak.id', '=', 'katalog.id_kontak')
+            ->get();
             return response()->json([
                 'status' => true,
                 'data' => $data

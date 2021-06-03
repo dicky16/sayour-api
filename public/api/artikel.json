@@ -1,366 +1,235 @@
 {
- "artikel": [
-  {
-   "judul": "Usulan Formasi Guru PPPK 2021 Tak Capai 1 Juta di Mei, Perhimpunan Guru Buka Suara",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4570175/usulan-formasi-guru-pppk-2021-tak-capai-1-juta-di-mei-perhimpunan-guru-buka-suara",
-   "desc": "Pemerintah berencana merekrut 1 juta guru PPPK pada 2021 ini.",
-   "img": "https://cdn0-production-images-kly.akamaized.net/BT6-J7SEiVJT4iPZyxUiqElB1dU=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2634480/original/094085300_1546944311-Banner__19_.jpg",
-   "img_url": "https://www.liputan6.com/bisnis/read/4570175/usulan-formasi-guru-pppk-2021-tak-capai-1-juta-di-mei-perhimpunan-guru-buka-suara",
-   "time": "27 menit lalu"
-  },
-  {
-   "judul": "Jangan Lupa Ganti Kartu ATM Gesek ke Chip, Ini Jadwal Batas Waktunya di Bank",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4570108/jangan-lupa-ganti-kartu-atm-gesek-ke-chip-ini-jadwal-batas-waktunya-di-bank",
-   "desc": "Sejatinya, batas waktu penggantian kartu ATM model gesek ke chip per 31 Desember 2021. Namun beberapa bank memiliki jadwal berbeda-beda.",
-   "time": "1 jam lalu"
-  },
-  {
-   "judul": "Tepat Pilih Investasi Jangka Panjang yang Lebih Pasti",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4568277/tepat-pilih-investasi-jangka-panjang-yang-lebih-pasti",
-   "desc": "Investasi jangka panjang kini banyak dilirik oleh masyarakat. Pasalnya, investasi ini mampu mendapatkan menanam keuntungan dalam jangka waktu tertentu.",
-   "time": "3 jam lalu"
-  },
-  {
-   "judul": "Bandara Soedirman Purbalingga Siap Beroperasi 1 Juni 2021",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4570023/bandara-soedirman-purbalingga-siap-beroperasi-1-juni-2021",
-   "desc": "Dalam rencana pada 3 Juni 2021 pesawat Citilink sudah bisa mengudara di Bandara JB Soedirman dengan rute dari Jakarta.",
-   "time": "13 jam lalu"
-  },
-  {
-   "judul": "Sandiaga Uno: Pariwisata Labuan Bajo dan Bali Mulai Menggeliat",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569977/sandiaga-uno-pariwisata-labuan-bajo-dan-bali-mulai-menggeliat",
-   "desc": "Kunjungan wisatawan ke Labuan Bajo di 2021 sudah naik hingga 30 persen.",
-   "time": "13 jam lalu"
-  },
-  {
-   "judul": "Menko Airlangga Bongkar 5 Strategi Indonesia Pimpin Forum Sherpa Track G20",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569971/menko-airlangga-bongkar-5-strategi-indonesia-pimpin-forum-sherpa-track-g20",
-   "desc": "Presidensi G20 Indonesia juga berpotensi menghasilkan devisa bagi Indonesia jika diselenggarakan secara fisik pada akhir 2022.",
-   "time": "14 jam lalu"
-  },
-  {
-   "judul": "Berlibur 3 Hari di Labuan Bajo Cuma Habiskan Rp 5 Juta, Mau?",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569966/berlibur-3-hari-di-labuan-bajo-cuma-habiskan-rp-5-juta-mau",
-   "desc": "Adanya desa wisata di kawasan Labuan Bajo diharapkan bisa mengurangi beban wisatawan yang berlibur ke Pulau Komodo.",
-   "time": "14 jam lalu"
-  },
-  {
-   "judul": "Politeknik Ketenagakerjaan Buka Pendaftaran untuk Mahasiswa Baru, Gratis",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569932/politeknik-ketenagakerjaan-buka-pendaftaran-untuk-mahasiswa-baru-gratis",
-   "desc": "Politeknik Ketenagakerjaan tahun ini membuka kesempatan 90 orang mahasiswa baru dengan persyaratan Warga Negara Indonesia (WNI) dan lulusan SMA/MA/SMK/Sederajat.",
-   "time": "15 jam lalu"
-  },
-  {
-   "judul": "Ada Gelaran Tarian Khas Pulau Komodo di Halte MRT Jakarta tiap Akhir Pekan",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569942/ada-gelaran-tarian-khas-pulau-komodo-di-halte-mrt-jakarta-tiap-akhir-pekan",
-   "desc": "PT MRT Jakarta bersama Kementerian Pariwisata dan Ekonomi Kreatif (kemenparekraf) menghadirkan gelaran tarian khas Pulau Komodo di Stasiun MRT Bundaran HI.",
-   "time": "15 jam lalu"
-  },
-  {
-   "judul": "OJK Sebut Kredit Konsumsi Tumbuh 0,31 Persen di April 2021",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569928/ojk-sebut-kredit-konsumsi-tumbuh-031-persen-di-april-2021",
-   "desc": "OJK terus menjaga sektor jasa keuangan tetap stabil di tengah upaya pemulihan ekonomi nasional.",
-   "time": "16 jam lalu"
-  },
-  {
-   "judul": "Cerita Pengusaha Eceng Gondok Jadi UMKM yang Mendunia Berkat BRI Incubator",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569923/cerita-pengusaha-eceng-gondok-jadi-umkm-yang-mendunia-berkat-bri-incubator",
-   "desc": "Ieko Damayanti menceritakan perjalanan bisnis handycraft-nya dan peran BRI Incubator dalam membawa produknya hingga mendunia.",
-   "time": "16 jam lalu"
-  },
-  {
-   "judul": "Bea Cukai Pangkal Pinang Amankan 1,1 Kilogram Sabu",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569927/bea-cukai-pangkal-pinang-amankan-11-kilogram-sabu",
-   "desc": "Sinergi antara Bea Cukai Pangkal Pinang bersama BNN Provinsi, dan Direktorat Polairud Polda Kepulauan Bangka Belitung, serta Polsek Sungai Selan berhasil mengagalkan peredaran narkotika jenis sabu.",
-   "time": "16 jam lalu"
-  },
-  {
-   "judul": "PLN Lunasi Utang Sebelum Jatuh Tempo Senilai Rp 30 Triliun",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569909/pln-lunasi-utang-sebelum-jatuh-tempo-senilai-rp-30-triliun",
-   "desc": "PLN berhasil menurunkan jumlah interest bearing debt atau rasio utang kena bunga menjadi sebesar Rp 452,4 triliun.",
-   "time": "16 jam lalu"
-  },
-  {
-   "judul": "Mentan SYL dan Menkop UKM Gandeng IPB Wujudkan Korporatisasi Sektor Pertanian",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569924/mentan-syl-dan-menkop-ukm-gandeng-ipb-wujudkan-korporatisasi-sektor-pertanian",
-   "desc": "Menteri Pertanian Syahrul Yasin Limpo (Mentan SYL) dan Menteri Koperasi dan UKM, Teten Masduki mendorong program korporatisasi usaha mikro, kecil, dan menengah (UMKM) Indonesia diterapkan dalam sektor pertanian.",
-   "time": "17 jam lalu"
-  },
-  {
-   "judul": "Ingin Berbisnis Waralaba? Coba Kunjungi Website Ini",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569906/ingin-berbisnis-waralaba-coba-kunjungi-website-ini",
-   "desc": "Friendchised, marketplace kemitraan dan waralaba di Indonesia yang mempertemukan para peminat bisnis kemitraan dan pemilik bisnis.",
-   "time": "17 jam lalu"
-  },
-  {
-   "judul": "BKN Minta Pejabat Pembina Kepegawaian Segera Usulkan Lokasi Ujian CPNS 2021",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569849/bkn-minta-pejabat-pembina-kepegawaian-segera-usulkan-lokasi-ujian-cpns-2021",
-   "desc": "BKN meminta agar instansi Pusat dan Daerah yang telah merencanakan titik lokasi seleksi mandiri atau cost-sharing.",
-   "time": "17 jam lalu"
-  },
-  {
-   "judul": "Alasan Wings Air Tunda Penerbangan Rute Fak-Fak Menuju Sorong",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569843/alasan-wings-air-tunda-penerbangan-rute-fak-fak-menuju-sorong",
-   "desc": "Posisi pesawat Wings Air masih berada di landas parkir (apron) tidak sedang bersiap untuk lepas landas.",
-   "time": "18 jam lalu"
-  },
-  {
-   "judul": "Kata Kemenhan Soal Dana Pembelian Alutsista Rp 1.750 Triliun",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569836/kata-kemenhan-soal-dana-pembelian-alutsista-rp-1750-triliun",
-   "desc": "Pinjaman uang ke luar negeri alias utang untuk pengadaan Alutsista tidak akan membebani keuangan negara.",
-   "time": "19 jam lalu"
-  },
-  {
-   "judul": "Pendaftaran CPNS 2021 Diundur, Ini Penjelasan BKN",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569825/pendaftaran-cpns-2021-diundur-ini-penjelasan-bkn",
-   "desc": "BKN meminta kepada Pejabat Pembina Kepegawaian (PPK) untuk menyiapkan rencana kegiatan dan anggaran pelaksanaan Seleksi Kompetensi Dasar CPNS.",
-   "time": "19 jam lalu"
-  },
-  {
-   "judul": "Wika Cetak Laba Bersih Rp 105 Miliar di Kuartal I 2021",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569793/wika-cetak-laba-bersih-rp-105-miliar-di-kuartal-i-2021",
-   "desc": "Hingga April 2021, Wijaya Karya atau WIKA telah memperoleh kontrak baru sebesar Rp 5,54 triliun.",
-   "time": "20 jam lalu"
-  },
-  {
-   "judul": "Beredar Draf Perpres Alutsista, Pemerintah Cari Pinjaman Luar Negeri Rp 1.788 Triliun",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569753/beredar-draf-perpres-alutsista-pemerintah-cari-pinjaman-luar-negeri-rp-1788-triliun",
-   "desc": "Dalam rancangan perpres dijelaskan pada pasal 7, dana yang dibutuhkan untuk membeli alutsista mencapai USD 124.995.000.000.",
-   "time": "21 jam lalu"
-  },
-  {
-   "judul": "Menko Airlangga Ditunjuk Pimpin Sherpa Track G20",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569725/menko-airlangga-ditunjuk-pimpin-sherpa-track-g20",
-   "desc": "Indonesia akan menjadi Presidensi G20 yang diselenggarakan pada 2022.",
-   "time": "21 jam lalu"
-  },
-  {
-   "judul": "Menteri BUMN Erick Thohir Ulang Tahun ke-51",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569719/menteri-bumn-erick-thohir-ulang-tahun-ke-51",
-   "desc": "Setelah diangkat menjadi Menteri BUMN, Erick Thohir banyak membuat gebrakan yang menghebohkan publik.",
-   "time": "22 jam lalu"
-  },
-  {
-   "judul": "Teten Masduki: Koperasi jadi Solusi Pembiayaan Usaha Mikro di Sektor Produktif",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569712/teten-masduki-koperasi-jadi-solusi-pembiayaan-usaha-mikro-di-sektor-produktif",
-   "desc": "Menteri Koperasi dan UKM Teten Masduki menekankan, keberadaan koperasi harus mampu menjadi solusi pembiayaan bagi para pelaku mikro di Indonesia. Apalagi mengingat sekitar 99 persen pelaku usaha di tanah air masih didominasi usaha mikro.",
-   "time": "22 jam lalu"
-  },
-  {
-   "judul": "Pendaftaran CPNS Kemenkumham Diundur, Simak Alasannya!",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569680/pendaftaran-cpns-kemenkumham-diundur-simak-alasannya",
-   "desc": "Kemenkumham mengumumkan bahwa CPNS Kemenkumham yang semula akan dilaksanakan pada tanggal 30 Mei 2021 diundur.",
-   "time": "22 jam lalu"
-  },
-  {
-   "judul": "Menko Airlangga: 10 Juta Orang yang Terdampak Pandemi Sudah Kembali Kerja",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569673/menko-airlangga-10-juta-orang-yang-terdampak-pandemi-sudah-kembali-kerja",
-   "desc": "Menko Airlangga Hartarto menambahkan, terdapat 940 orang yang menganggur kini sudah bekerja kembali.",
-   "time": "23 jam lalu"
-  },
-  {
-   "judul": "Pendaftaran CPNS Batal Dibuka 31 Mei 2021, Sekolah Kedinasan Mulai Tes SKD",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569627/pendaftaran-cpns-batal-dibuka-31-mei-2021-sekolah-kedinasan-mulai-tes-skd",
-   "desc": "Seleksi CPNS dan Calon PPPK formasi 2021 batal dibuka pada 31 Mei 2021.",
-   "time": "24 jam lalu"
-  },
-  {
-   "judul": "Banyak Proyek Tak Jelas, Bukti Ego Sektoral Masih Tinggi",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569468/banyak-proyek-tak-jelas-bukti-ego-sektoral-masih-tinggi",
-   "desc": "Jokowi baru-baru ini mengkritik keras pelaksanaan suatu proyek yang kerapkali tak didukung oleh pembangunan jalan akses dan infrastruktur pendukungnya",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Top 3: Pendaftaran CPNS Batal Dibuka 31 Mei 2021",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569478/top-3-pendaftaran-cpns-batal-dibuka-31-mei-2021",
-   "desc": "Berita soal batalnya pembukaan pendaftaran CPNS 2021 ini jadi yang paling banyak dibaca.",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "3 Alasan Pentingnya Membuka Rekening Tabungan",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569465/3-alasan-pentingnya-membuka-rekening-tabungan",
-   "desc": "Apa yang dapat dilakukan rekening tabungan untuk Anda?",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Tips Konsisten Kejar Resolusi Keuangan",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4568866/tips-konsisten-kejar-resolusi-keuangan",
-   "desc": "Kelelahan saat menjalani resolusi keuangan nyata terjadi, dan ini tipsnya untuk Anda.",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Negara Tak Berdaya atas Tanah, Miliarder Dadakan Bakal Bermunculan",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569461/negara-tak-berdaya-atas-tanah-miliarder-dadakan-bakal-bermunculan",
-   "desc": "Pengamat Tata Kota Yayat Supriatna menyoroti pengerjaan proyek infrastruktur yang kerap mangkrak akibat perkara pembebasan lahan.",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Ke Medan, Menhub Bahas Pembangunan LRT dan BRT",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569504/ke-medan-menhub-bahas-pembangunan-lrt-dan-brt",
-   "desc": "Menteri Perhubungan (Menhub) Budi Karya Sumadi melakukan kunjungan kerja ke Medan, Sabtu (29/5/2021)",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Vaksinasi Covid-19 Drive Thru di Bandung Libatkan Produk Karya Anak Bangsa",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569459/vaksinasi-covid-19-drive-thru-di-bandung-libatkan-produk-karya-anak-bangsa",
-   "desc": "Program vaksinasi di Indonesia terus dilakukan, salah satunya di Bandung",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Momentum Revisi Aturan Produk Tembakau Dinilai Kurang Pas",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569447/momentum-revisi-aturan-produk-tembakau-dinilai-kurang-pas",
-   "desc": "Momentum aturan soal produk tembakau saat ini membuat pemerintah harus menyiapkan berbagai peraturan lain yang lebih mendesak",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "RNI Targetkan Produksi Gula 282 Ribu Ton di 2021",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569325/rni-targetkan-produksi-gula-282-ribu-ton-di-2021",
-   "desc": "Direktur Utama PT RNI (Persero) Arief Prasetyo Adi mengatakan, prospek bisnis gula di Indonesia masih cukup bagus dan menjanjikan",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Pensiunan BUMN Dapat Dukungan DPR Tolak Restrukturisasi Jiwasraya",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569433/pensiunan-bumn-dapat-dukungan-dpr-tolak-restrukturisasi-jiwasraya",
-   "desc": "Ketua Umum Forum Pensiunan BUMN Nasabah Jiwasraya Syahrul Tahir menyatakan penolakan terhadap skema restrukturisasi Jiwasraya",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Abdee Slank Diharapkan Bawa Perbaikan bagi Kinerja Telkom",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569322/abdee-slank-diharapkan-bawa-perbaikan-bagi-kinerja-telkom",
-   "desc": "DPR memiliki harapan terhadap pergantian pengurus Telkom Indonesia",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "PT PAL Indonesia Kerjasama Perawatan Kapal Perang dengan Swedia",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569430/pt-pal-indonesia-kerjasama-perawatan-kapal-perang-dengan-swedia",
-   "desc": "PT PAL Indonesia (Persero) melakukan penandatanganan perjanjian kerjasama terkait perawatan kapal perang dengan Swedia",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Dorong Keberlangsungan Ekspor, LPEI Gelar Pelatihan UMKM di Bali",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569319/dorong-keberlangsungan-ekspor-lpei-gelar-pelatihan-umkm-di-bali",
-   "desc": "LPEI terus mendorong keberlangsungan usaha mikro, kecil dan menengah (UMKM) di Indonesia",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Pengamat: Tidak Adil Jika hanya Abdee Slank yang Disorot di Komisaris Telkom",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569316/pengamat-tidak-adil-jika-hanya-abdee-slank-yang-disorot-di-komisaris-telkom",
-   "desc": "Direktur riset Center of Reform on Economic (CORE) Indonesia Piter Abdullah meminta fokus masyarakat untuk tidak tertuju hanya pada Abdi Negara Nurdin atau Abdee Slank",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Asik, Bunga Kartu Kredit Turun per 1 Juli 2021",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569298/asik-bunga-kartu-kredit-turun-per-1-juli-2021",
-   "desc": "Bank Indonesia (BI) akan memangkas batas maksimum suku bunga kartu kredit dari 2 persen menjadi 1,75 persen per bulan",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Peran Bioteknologi dalam Genjot Produksi Pangan",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569314/peran-bioteknologi-dalam-genjot-produksi-pangan",
-   "desc": "Bioteknologi dipandang dapat meningkatkan kuantitas dan kualitas pertanian",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "CIMB Niaga Beri Inspirasi Anak Panti Meraih Mimpi",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569379/cimb-niaga-beri-inspirasi-anak-panti-meraih-mimpi",
-   "desc": "PT Bank CIMB Niaga Tbk terus memberikan inspirasi kepada masyarakat Indonesia untuk mengejar mimpi.",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Wamendag Dorong Optimalisasi Ekspor Aspal Kepulauan Buton",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569147/wamendag-dorong-optimalisasi-ekspor-aspal-kepulauan-buton",
-   "desc": "Wamendag Jerry saat menghadiri rapat koordinasi peningkatan ekspor komoditas unggulan dan sinkronisasi kebijakan sektor perdagangan di Kabupaten Buto",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Bea Cukai dan Pemda Berkolaborasi Fokus Tingkatkan Ekspor",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569354/bea-cukai-dan-pemda-berkolaborasi-fokus-tingkatkan-ekspor",
-   "desc": "Bea Cukai menggelar sinergi dengan Pemda di beberapa wilayah yang kali ini dilakukan oleh Kantor Bea Cukai di wilayah Jawa Timur I, Juanda, Tasikmalaya, Kupang, dan Denpasar.",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Munas Kadin Diundur, Ini Kata Arsjad Rasjid",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569308/munas-kadin-diundur-ini-kata-arsjad-rasjid",
-   "desc": "Perjalanan menuju Munas Kadin seperti maraton yang mutlak memerlukan stamina prima.",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Hore, Diskon Harga Pertalite Bakal Diteruskan",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569153/hore-diskon-harga-pertalite-bakal-diteruskan",
-   "desc": "PT Pertamina (Persero) berencana terus memperluas wilayah pelaksanaan Program Langit Biru (PLB).",
-   "time": "1 hari lalu"
-  },
-  {
-   "judul": "Terbelit Pandemi, DPR Sebut Target Lifting Migas di 2021 Sulit Tercapai",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569318/terbelit-pandemi-dpr-sebut-target-lifting-migas-di-2021-sulit-tercapai",
-   "desc": "Peningkatan lifting migas diharapkan terjadi di 2024.",
-   "time": "2 hari lalu"
-  },
-  {
-   "judul": "BLT Dana Desa Berdampak Besar Pada Pemulihan Ekonomi Desa",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569311/blt-dana-desa-berdampak-besar-pada-pemulihan-ekonomi-desa",
-   "desc": "BLT Dana Desa pada Januari 2021 sudah tersalurkan Rp1,28 triliun dengan penerima manfaat lebih dari 4,27 juta keluarga.",
-   "time": "2 hari lalu"
-  },
-  {
-   "judul": "Misi Transformasi Bisnis Pusri untuk Kesejahteraan Petani",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569196/misi-transformasi-bisnis-pusri-untuk-kesejahteraan-petani",
-   "desc": "PT Pusri Palembang yang merupakan anak perusahaan PT Pupuk Indonesia (Persero), senantiasa melaksanakan perubahan dan layanan terbaik bagi stakeholders",
-   "time": "2 hari lalu"
-  },
-  {
-   "judul": "Lawan Pandemi, Menko Airlangga Minta Dukungan Pengusaha",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569304/lawan-pandemi-menko-airlangga-minta-dukungan-pengusaha",
-   "desc": "Menko Perekonomian Airlangga Hartarto menegaskan bahwa Kadin adalah salah satu dari mitra pemerintah dalam upaya perang melawan covid-19.",
-   "time": "2 hari lalu"
-  },
-  {
-   "judul": "Catat, Daftar Proyek Jokowi yang Dianggap Tak Jelas",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569150/catat-daftar-proyek-jokowi-yang-dianggap-tak-jelas",
-   "desc": "Presiden Joko Widodo (Jokowi) geram lantaran sejumlah simpul transportasi seperti pelabuhan dan bandara belum terkoneksi dengan baik ke jalan akses.",
-   "time": "2 hari lalu"
-  },
-  {
-   "judul": "Minta Diselamatkan, Karyawan Garuda Indonesia Temui Jokowi Minggu Depan",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569187/minta-diselamatkan-karyawan-garuda-indonesia-temui-jokowi-minggu-depan",
-   "desc": "Pekan depan, Serikat Bersama PT Garuda Indonesia akan menghadap Presiden Jokowi",
-   "time": "2 hari lalu"
-  },
-  {
-   "judul": "Jokowi Punya Banyak Proyek Tak Jelas, Ini Saran Pengamat",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569144/jokowi-punya-banyak-proyek-tak-jelas-ini-saran-pengamat",
-   "desc": "Presiden Joko Widodo (Jokowi) mengkritik banyak proyek infrastruktur yang secara pengerjaan tidak jelas.",
-   "time": "2 hari lalu"
-  },
-  {
-   "judul": "Triawan Munaf: Kemampuan Abdee Slank Melampaui Seorang Musisi",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569166/triawan-munaf-kemampuan-abdee-slank-melampaui-seorang-musisi",
-   "desc": "Penunjukan Abdee Negara sebagai komisaris independen PT Telkom Indonesia mendapat sambutan positif dari para seniman",
-   "time": "2 hari lalu"
-  },
-  {
-   "judul": "Kemnaker Minta Manajemen Indomaret dan Pekerja Saling Menahan Diri",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569099/kemnaker-minta-manajemen-indomaret-dan-pekerja-saling-menahan-diri",
-   "desc": "Kemnaker telah memfasilitasi pertemuan antara pengelola PT Indomarco Prismatama selaku pengelola ritel Indomaret dan serikat pekerja",
-   "time": "2 hari lalu"
-  },
-  {
-   "judul": "Mentan Dukung Proyek Pabrik Baru Pusri di Palembang",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569138/mentan-dukung-proyek-pabrik-baru-pusri-di-palembang",
-   "desc": "Mentan Syahrul Yasin Limpo mendukung rencana anak usaha holding PT Pupuk Indonesia, PT Pupuk Sriwidjaja (Pusri), membangun pabrik baru",
-   "time": "2 hari lalu"
-  },
-  {
-   "judul": "Ingat, Sekolah Kedinasan Mulai Laksanakan SKD per 31 Mei 2021",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569032/ingat-sekolah-kedinasan-mulai-laksanakan-skd-per-31-mei-2021",
-   "desc": "Seleksi Calon Aparatur Sipil Negara (CASN) tahun formasi 2021 melalui skema sekolah kedinasan akan memasuki tahap seleksi kompetensi dasar (SKD)",
-   "time": "2 hari lalu"
-  },
-  {
-   "judul": "Wisnu Wijayanto Ditunjuk Jadi Direktur Utama Batik Air",
-   "judul_url": "https://www.liputan6.com/bisnis/read/4569124/wisnu-wijayanto-ditunjuk-jadi-direktur-utama-batik-air",
-   "desc": "Batik Air (kode penerbangan ID) member of Lion Air Group mengumumkan penunjukan Direktur Utama",
-   "time": "2 hari lalu"
-  }
- ]
+"artikel":[
+    {
+        "judul":"Menter ESDM Ajukan Usulan Besaran Subsidi Solar dan Listrik dalam RAPBN 2022",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573239/menter-esdm-ajukan-usulan-besaran-subsidi-solar-dan-listrik-dalam-rapbn-2022",
+        "time":"5 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/Mb4_qUN79JRz8AKykIlJp8MhSXI=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3379469/original/027698300_1613556657-20210217-Realisasi_Pemanfaatan_Biodiesel_untuk_Dalam_Negeri-8.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573239/menter-esdm-ajukan-usulan-besaran-subsidi-solar-dan-listrik-dalam-rapbn-2022"
+        },
+        {
+        "judul":"Pemerintah Diminta Segera Sederhanakan Struktur Tarif Cukai Tembakau",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573131/pemerintah-diminta-segera-sederhanakan-struktur-tarif-cukai-tembakau",
+        "time":"6 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/wYdiiAdKzIXujHLcR3umxZHf1ZM=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1360914/original/098618500_1475232909-20160930--Bea-Cukai-Rilis-Temuan-Rokok-Ilegal-Jakarta--Faizal-Fanani-08.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573131/pemerintah-diminta-segera-sederhanakan-struktur-tarif-cukai-tembakau"
+        },
+        {
+        "judul":"Gandeng Perusahaan Jepang, Ciputra Group Mulai Bangun The Newton 2",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573095/gandeng-perusahaan-jepang-ciputra-group-mulai-bangun-the-newton-2",
+        "time":"7 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/ejcV0tcYUTTyUkRFUo1DFRO0YGY=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3472313/original/038634100_1622720580-FOTO_001.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573095/gandeng-perusahaan-jepang-ciputra-group-mulai-bangun-the-newton-2"
+        },
+        {
+        "judul":"Embung Sanur Diharapkan Mampu Pulihkan Pariwisata di Bali",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573102/embung-sanur-diharapkan-mampu-pulihkan-pariwisata-di-bali",
+        "time":"7 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/MmzxICXOR6aswaCJWAFXGIknVEg=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3472330/original/014752700_1622721035-FOTO_001.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573102/embung-sanur-diharapkan-mampu-pulihkan-pariwisata-di-bali"
+        },
+        {
+        "judul":"Menko Airlangga: Pertanian Makin Tangguh di Masa Pandemi",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573233/menko-airlangga-pertanian-makin-tangguh-di-masa-pandemi",
+        "time":"7 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/Z_EuVW1rcesX1RKA-n1eY48oXYE=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3472510/original/084077900_1622731151-WhatsApp_Image_2021-06-03_at_8.45.31_PM.jpeg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573233/menko-airlangga-pertanian-makin-tangguh-di-masa-pandemi"
+        },
+        {
+        "judul":"Gubernur DIY Dukung The 2nd Millenial Indonesian Agropreneurs Expo yang Segera Digelar Kem...",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573164/gubernur-diy-dukung-the-2nd-millenial-indonesian-agropreneurs-expo-yang-segera-digelar-kementan",
+        "time":"7 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/lSpNAOJz7bdqU8zkt7ITzl98ppk=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3472438/original/026675900_1622725527-WhatsApp_Image_2021-06-03_at_7.28.29_PM__1_.jpeg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573164/gubernur-diy-dukung-the-2nd-millenial-indonesian-agropreneurs-expo-yang-segera-digelar-kementan"
+        },
+        {
+        "judul":"Seluruh Warga Indonesia Harus Jadi Duta Produk Lokal",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573120/seluruh-warga-indonesia-harus-jadi-duta-produk-lokal",
+        "time":"7 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/vwy4zjGCMtOxocrbIO_kZ5RRlNg=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2989407/original/030063300_1575703728-IMG20191207110910.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573120/seluruh-warga-indonesia-harus-jadi-duta-produk-lokal"
+        },
+        {
+        "judul":"Gandeng Disrupto, Sinar Mas Land Kembangkan Ekosistem Startup",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573108/gandeng-disrupto-sinar-mas-land-kembangkan-ekosistem-startup",
+        "time":"7 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/1OTED5jVwjIe-8g9GXx2HF7lVvU=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3472339/original/058879300_1622721371-FOTO_001.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573108/gandeng-disrupto-sinar-mas-land-kembangkan-ekosistem-startup"
+        },
+        {
+        "judul":"Anak Buah Sri Mulyani Beri Bocoran soal Rencana Perubahan Tarif PPN",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573140/anak-buah-sri-mulyani-beri-bocoran-soal-rencana-perubahan-tarif-ppn",
+        "time":"7 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/RXNqTnWpDZ_dUqFcrKcx7p5SS_A=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1212051/original/095401300_1461319106-20160422-Anggota-Komisi-XI-DPR-RI-Diskusikan-RUU-Tax-Amnesty-Bareng-PARA-Syndicate-Helmi-Tebe-5.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573140/anak-buah-sri-mulyani-beri-bocoran-soal-rencana-perubahan-tarif-ppn"
+        },
+        {
+        "judul":"Pesan Menteri Tjahjo ke Bupati Alor: Pejabat Daerah Harus Punya Etika",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573093/pesan-menteri-tjahjo-ke-bupati-alor-pejabat-daerah-harus-punya-etika",
+        "time":"7 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/TrZWwlhqhi-q7jdw_pq0APQfcp8=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3423417/original/018895800_1617873990-20210408-MenPAN-RB_Tjahjo_Kumolo_Raker_dengan_Komisi_II_DPR-4.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573093/pesan-menteri-tjahjo-ke-bupati-alor-pejabat-daerah-harus-punya-etika"
+        },
+        {
+        "judul":"BCA dan UnionPay Luncurkan Kartu Kredit Contactless",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573087/bca-dan-unionpay-luncurkan-kartu-kredit-contactless",
+        "time":"8 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/b6JDpjs_eyOpB3uizSra-2pFGpo=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2835792/original/038785100_1561357842-FOTO_0001.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573087/bca-dan-unionpay-luncurkan-kartu-kredit-contactless"
+        },
+        {
+        "judul":"GoTo Bakal Sumbang Pertumbuhan Ekonomi Indonesia 0,3 Persen",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573136/goto-bakal-sumbang-pertumbuhan-ekonomi-indonesia-03-persen",
+        "time":"8 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/9rRti1W0w2CM-WjMHIl6A8JW4WQ=/0x820:7952x5302/200x112/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3457625/original/094844800_1621232936-FOTO_001.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573136/goto-bakal-sumbang-pertumbuhan-ekonomi-indonesia-03-persen"
+        },
+        {
+        "judul":"Dirut dan Wadirut BTN Dinyatakan Lulus Uji Kepatutan OJK",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573080/dirut-dan-wadirut-btn-dinyatakan-lulus-uji-kepatutan-ojk",
+        "time":"8 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/wL1fy35duovShAPkFfOezCIa6xg=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3472301/original/023075300_1622719716-WhatsApp_Image_2021-06-03_at_16.47.24.jpeg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573080/dirut-dan-wadirut-btn-dinyatakan-lulus-uji-kepatutan-ojk"
+        },
+        {
+        "judul":"DPR: Penguatan Koordinasi Pemerintah Pusat dan Daerah Jangan Timbulkan Masalah Baru",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573067/dpr-penguatan-koordinasi-pemerintah-pusat-dan-daerah-jangan-timbulkan-masalah-baru",
+        "time":"8 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/9ku1ZHwSgyN5odNAeR8xtABfVjE=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2948160/original/022554300_1571889805-20191024-Presiden_Jokowi_Pimpin_Rapat_Perdana_Kabinet_Indonesia_Maju-4.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573067/dpr-penguatan-koordinasi-pemerintah-pusat-dan-daerah-jangan-timbulkan-masalah-baru"
+        },
+        {
+        "judul":"Kemenkeu: Tax Amnesty Sebaiknya Tak Diberikan Terlalu Sering",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573056/kemenkeu-tax-amnesty-sebaiknya-tak-diberikan-terlalu-sering",
+        "time":"9 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/SC6syC3-dPUoEA9jAzcNSH8qhTI=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1391854/original/053561300_1477994992-20161101-Tax-Amnesti-ITC-Glodok-AY4.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573056/kemenkeu-tax-amnesty-sebaiknya-tak-diberikan-terlalu-sering"
+        },
+        {
+        "judul":"Perluasan Insentif PLTS Atap Diharapkan Bisa Terealisasi di 2022",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573055/perluasan-insentif-plts-atap-diharapkan-bisa-terealisasi-di-2022",
+        "time":"9 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/LboZkjWKnsdVIC1VuDgSQbbvtA8=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2874549/original/035726300_1565089517-20190806-Pemanfaatan-Tenaga-Surya-Sebagai-Sumber-Energi-Listrik-Alternatif8.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573055/perluasan-insentif-plts-atap-diharapkan-bisa-terealisasi-di-2022"
+        },
+        {
+        "judul":"Pemulihan Ekonomi Indonesia Terus Berlanjut, Ini Buktinya",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573041/pemulihan-ekonomi-indonesia-terus-berlanjut-ini-buktinya",
+        "time":"9 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/JYRtJXNL_-SW4136BO9C-hzabnw=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2867992/original/017559500_1564481106-20190730-Target-Pertumbuhan-Ekonomi-2019-Diturunkan-ANGGA-1.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573041/pemulihan-ekonomi-indonesia-terus-berlanjut-ini-buktinya"
+        },
+        {
+        "judul":"Temui Alumni Kartu Prakerja, Airlangga Buktikan Program Ini Cetak Pengusaha",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573034/temui-alumni-kartu-prakerja-airlangga-buktikan-program-ini-cetak-pengusaha",
+        "time":"9 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/odbtIBzsLdN_neKaYxiyYeDQIg0=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3472250/original/058313200_1622716681-Alumni_Kartu_Prakerja.jpeg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573034/temui-alumni-kartu-prakerja-airlangga-buktikan-program-ini-cetak-pengusaha"
+        },
+        {
+        "judul":"DPR Ingatkan Sri Mulyani Tak Hambat Penyelamatan Garuda Indonesia",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573003/dpr-ingatkan-sri-mulyani-tak-hambat-penyelamatan-garuda-indonesia",
+        "time":"9 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/DmXQIYB04ZiMQN9MKY_NyeWstAQ=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3286173/original/006954200_1604453538-Desain_Mahasiswi_UPH_Helena_Calista_Menjuarai_Kompetisi_Garuda_Airlines__1_.JPG",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573003/dpr-ingatkan-sri-mulyani-tak-hambat-penyelamatan-garuda-indonesia"
+        },
+        {
+        "judul":"PLN Bakal Beri Hadiah 48 Pelanggan yang Patuh Bayar Listrik Tiap Awal Bulan",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573031/pln-bakal-beri-hadiah-48-pelanggan-yang-patuh-bayar-listrik-tiap-awal-bulan",
+        "time":"9 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/Ok5tG0BOCljKEFHV4-mciY5p0o8=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3472236/original/000799400_1622716041-FOTO_001.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573031/pln-bakal-beri-hadiah-48-pelanggan-yang-patuh-bayar-listrik-tiap-awal-bulan"
+        },
+        {
+        "judul":"Gerakan Bangga Buatan Indonesia Mampu Bawa 3,7 Juta UMKM Go Digital",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573001/gerakan-bangga-buatan-indonesia-mampu-bawa-37-juta-umkm-go-digital",
+        "time":"10 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/7I4tOmn13qVIVurslKJB-54m_go=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3187368/original/021483800_1595414440-20200722-Pemerintah-Menargetkan-10-Juta-UMKM-Go-Digital-ANGGA-3.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573001/gerakan-bangga-buatan-indonesia-mampu-bawa-37-juta-umkm-go-digital"
+        },
+        {
+        "judul":"Mentan SYL Pastikan Pemerintah Berkomitmen Sejahterakan Peternak",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573028/mentan-syl-pastikan-pemerintah-berkomitmen-sejahterakan-peternak",
+        "time":"10 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/8kTPXfA2BgJs9Ph3SUBb3MDf_XU=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3472244/original/050552600_1622716378-WhatsApp_Image_2021-06-03_at_5.25.03_PM__2_.jpeg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573028/mentan-syl-pastikan-pemerintah-berkomitmen-sejahterakan-peternak"
+        },
+        {
+        "judul":"Menko Airlangga Dorong Percepatan Penyelesaian Proyek Bendungan Sukamahi",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573020/menko-airlangga-dorong-percepatan-penyelesaian-proyek-bendungan-sukamahi",
+        "time":"10 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/02g86drYSXm_4dqFXQpViwHM-bE=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3472225/original/035745500_1622715598-WhatsApp_Image_2021-06-03_at_17.07.15.jpeg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573020/menko-airlangga-dorong-percepatan-penyelesaian-proyek-bendungan-sukamahi"
+        },
+        {
+        "judul":"Menengok Sekapuk Gresik, Desa Brilian dengan Pendapatan Miliaran Rupiah di Tengah Pandemi",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4573002/menengok-sekapuk-gresik-desa-brilian-dengan-pendapatan-miliaran-rupiah-di-tengah-pandemi",
+        "time":"10 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/dKexSCWrakCcgZiEZuQr9Yh3Sok=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3472203/original/098953200_1622715015-Wisata_Setigi_Utama.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4573002/menengok-sekapuk-gresik-desa-brilian-dengan-pendapatan-miliaran-rupiah-di-tengah-pandemi"
+        },
+        {
+        "judul":"Kementerian ESDM Serap Anggaran Rp 1,3 Triliun hingga Mei 2021",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4572995/kementerian-esdm-serap-anggaran-rp-13-triliun-hingga-mei-2021",
+        "time":"10 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/VMI0SZajdzqoqhBjLoUrZS66p8o=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/680460/original/tambang-minyak-tengah-laut.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4572995/kementerian-esdm-serap-anggaran-rp-13-triliun-hingga-mei-2021"
+        },
+        {
+        "judul":"Ternyata Pemerintah Siapkan Stimulus Ekonomi buat Petani dan Pengusaha Perikanan",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4572996/ternyata-pemerintah-siapkan-stimulus-ekonomi-buat-petani-dan-pengusaha-perikanan",
+        "time":"10 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/aF5FDr60siA_iaj_GqR-sPqjnbg=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3472199/original/074573100_1622714743-Kampanye_konsumsi_ayam.jpeg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4572996/ternyata-pemerintah-siapkan-stimulus-ekonomi-buat-petani-dan-pengusaha-perikanan"
+        },
+        {
+        "judul":"30 Juta UMKM Ditargetkan Melek Teknologi di 2023",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4572991/30-juta-umkm-ditargetkan-melek-teknologi-di-2023",
+        "time":"10 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/6d7zroaXyAQ-bwKUplhJdvBm3qw=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3400887/original/029300600_1615713078-20210314-M-BLOCK-MARKET-4.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4572991/30-juta-umkm-ditargetkan-melek-teknologi-di-2023"
+        },
+        {
+        "judul":"Dirut Garuda Indonesia Irfan Setiaputra: Kami Sedang Fokus Pulihkan Kinerja",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4572988/dirut-garuda-indonesia-irfan-setiaputra-kami-sedang-fokus-pulihkan-kinerja",
+        "time":"10 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/d-ynWtHAPCzQ8LQRjDBR_I__w6A=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3031816/original/066126500_1579863467-20200124-Komut-dan-Dirut-Paparkan-Semangat-Baru-Garuda-Indonesia-6.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4572988/dirut-garuda-indonesia-irfan-setiaputra-kami-sedang-fokus-pulihkan-kinerja"
+        },
+        {
+        "judul":"Pungutan Pajak Digital Capai Rp 2,1 Triliun",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4572969/pungutan-pajak-digital-capai-rp-21-triliun",
+        "time":"10 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/Rg8gOnPwOqYt6CixASS94gzJc2Y=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1536454/original/009755000_1489483606-Pajak4.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4572969/pungutan-pajak-digital-capai-rp-21-triliun"
+        },
+        {
+        "judul":"Garuda Indonesia Kritis, Ini Penjelasan Dirut",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4572976/garuda-indonesia-kritis-ini-penjelasan-dirut",
+        "time":"10 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/TkkskH2mm8dkpwwYqKI87yqLEAQ=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3031813/original/076951500_1579863465-20200124-Komut-dan-Dirut-Paparkan-Semangat-Baru-Garuda-Indonesia-3.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4572976/garuda-indonesia-kritis-ini-penjelasan-dirut"
+        },
+        {
+        "judul":"DPR Cecar Erick Thohir Soal Penyelamatan Garuda Indonesia",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4572962/dpr-cecar-erick-thohir-soal-penyelamatan-garuda-indonesia",
+        "time":"10 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/8c6VX4Jnu43Fy657m2wzB6uaR2o=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3127034/original/074767000_1589362432-20200513-Erick-Thohir-4.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4572962/dpr-cecar-erick-thohir-soal-penyelamatan-garuda-indonesia"
+        },
+        {
+        "judul":"Giant Tutup, Bukti UU Cipta Kerja Tak Selalu Manjakan Investor",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4572965/giant-tutup-bukti-uu-cipta-kerja-tak-selalu-manjakan-investor",
+        "time":"10 jam lalu",
+        "img":"https://cdn1-production-images-kly.akamaized.net/4hHVR6DNzbmjCuGZ9FZ0httrDo8=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3392985/original/038017700_1614845705-20210304-Giant-Tutup-Gerai-7.jpg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4572965/giant-tutup-bukti-uu-cipta-kerja-tak-selalu-manjakan-investor"
+        },
+        {
+        "judul":"Anjlok, Laba BUMN 2020 hanya Rp 28 Triliun",
+        "judul_url":"https://www.liputan6.com/bisnis/read/4572955/anjlok-laba-bumn-2020-hanya-rp-28-triliun",
+        "time":"11 jam lalu",
+        "img":"https://cdn0-production-images-kly.akamaized.net/PXMFvL5JQ-Tfitnqxw4nyGs3LvE=/200x112/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2972284/original/035160900_1574218221-DJI_0146.JPG.jpeg",
+        "img_url":"https://www.liputan6.com/bisnis/read/4572955/anjlok-laba-bumn-2020-hanya-rp-28-triliun"
+        }
+]
 }
